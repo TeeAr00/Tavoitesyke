@@ -11,3 +11,7 @@ label {
 button {
   color: #4381b4;
 }
+output, input{
+  border: 1px solid black;
+  width: 170px;
+}
