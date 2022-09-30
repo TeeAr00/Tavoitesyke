@@ -1,11 +1,13 @@
 label {
   margin-top: 10px;
-  display: inline-block;
-  width: 80px;
+  display: block;
+  width: 170px;
 }
 #content {
-  margin: 200px;
-  border: 1px solid;
+  margin: 50px;
   padding: 20px;
   width: 250px;
+}
+button {
+  color: #4381b4;
 }
